@@ -4,7 +4,7 @@
 Поддерживает **русский**, **английский** и **украинский** языки.  
 Работает на GitHub Pages без сервера.
 
-[![Demo](https://img.shields.io/badge/demo-GitHub%20Pages-blue?style=flat-square)](#)
+[![Demo](https://img.shields.io/badge/demo-GitHub%20Pages-blue?style=flat-square)](https://igorlutiy.github.io/interactive/make_a_word/)
 [![Languages](https://img.shields.io/badge/languages-RU%20%7C%20EN%20%7C%20UK-green?style=flat-square)](#)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
